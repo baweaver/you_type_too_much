@@ -1,0 +1,12 @@
+[
+  {
+    "args":    {"extend": true, "to": "eol"},
+    "command": "move_to"
+  }, {
+    "args":    {"by": "characters", "forward": true},
+    "command": "move"
+  }, {
+    "args":    {"characters": ";"},
+    "command": "insert"
+  }
+]
