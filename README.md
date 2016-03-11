@@ -1,5 +1,7 @@
 # You Type Too Much
 
+Video - https://www.youtube.com/watch?v=R4lr-2562FQ
+
 Example code and other materials from my conference talk at HTML5DevConf 2015
 
 ## Notes
